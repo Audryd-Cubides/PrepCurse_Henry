@@ -1,2 +1,1 @@
-# PrepCurse_Henry
-Este es un "repository" de prueba en Henry
+Este proyecto es una prueba de clonacion local
